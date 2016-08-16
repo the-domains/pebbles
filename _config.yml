@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.8941389
+  lightness: 0.7620838
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#070707'
+    - '#F9D773'
+    - '#8D6D54'
+    - '#AE365C'
+  rhythmicContrast: 0.8974221
+typography_spectrum: 0.1165414
+name: Pebbles
